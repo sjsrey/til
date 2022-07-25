@@ -9,3 +9,6 @@ After cloning a repo that has been migrated using lfs, the host has to have lfs 
 
 The local large file will simply be a pointer, not the actual file.
 To get the actual file downloaded, do `git lfs pull` in the clone.
+
+
+[Source](https://stackoverflow.com/questions/65363299/git-clone-lfs-files-not-fully-downloading)
