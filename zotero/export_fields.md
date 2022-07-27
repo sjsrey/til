@@ -1,7 +1,7 @@
 # Controlling which fields export in Zotero
 
 We are using [shared groups](https://www.zotero.org/support/groups) for collaboration on papers.
-This has been working great, as we have zotero setup to export the group anytime there is a change, with the export going to the bibtex file in the paper repos on an author's machine. Zotero syncing makes the changes from one author's machine propagte to the local machines of all other collaborators.
+This has been working great, as we have zotero setup to export the group anytime there is a change, with the export going to the bibtex file in the paper repos on an author's machine. Zotero syncing makes the changes from one author's machine propagate to the local machines of all other collaborators.
 
 Having the bibtex file in git would result in conflicts,  however, as the `file` field for each entry would be different depending upon the collaborator who most recently updated the group on zotero.
 
