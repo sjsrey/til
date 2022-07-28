@@ -1,12 +1,7 @@
-# Using Bookmarks in NERDTREE
+# Refresh NERDTree to the directory of file in buffer
 
-In my migration back to vim from emacs, I'm getting reaquainted with [Nerdtree]
-
-One of the things I made heavy use of under emacs was bookmarks. Glad to see
-NERDTree has them.
-
-Once in NERDTree, a `B` will toggle boomkars on.
-
-Really nice way to get to a file that is buried at some depth in the file
-system.
-
+To get NERDTree to refresh to list the directory containing the file in the
+buffer I set this mapping:
+``
+``
+``map <leader>r :NERDTreeFind<cr>
