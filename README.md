@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-12 TILs at last count.
+13 TILs at last count.
 
 ## Categories
 
@@ -38,6 +38,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### emacs
 
 - [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+
+- [BibTex with a multiple file document](emacs/bitex-with-multiple-docs.tex)
 
 ### git
 
