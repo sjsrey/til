@@ -37,9 +37,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### emacs
 
-- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
-- [BibTex with a multiple file document](emacs/bitex-with-multiple-docs.tex)
+- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
 
 ### git
 
