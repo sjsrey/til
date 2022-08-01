@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-13 TILs at last count.
+14 TILs at last count.
 
 ## Categories
 
@@ -57,11 +57,13 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
 
+- [Fixing clipped matplotlib saved images](python/bbox_inches.md)
+
 ### vim
 
-- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
-
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
+
+- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
 ### zotero
 
