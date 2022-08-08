@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-15 TILs at last count.
+16 TILs at last count.
 
 ## Categories
 
@@ -15,6 +15,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [emacs](#emacs)
 
  - [git](#git)
+
+ - [kitty](#kitty)
 
  - [obsidian](#obsidian)
 
@@ -49,6 +51,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
 
+### kitty
+
+- [Configuring kitty](kitty/kitty-config.md)
+
 ### obsidian
 
 - [Updating community plug-ins](obsidian/updating_community_plugins.md)
@@ -67,9 +73,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
-
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
+
+- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
 ### zotero
 
