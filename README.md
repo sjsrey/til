@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-16 TILs at last count.
+18 TILs at last count.
 
 ## Categories
 
@@ -45,6 +45,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Forward sync from Emacs to pdf](emacs/forward-sync.md)
 
+- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
+
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
+
 ### git
 
 - [Large File Storage in Git](git/large-file-storage.md)
@@ -73,9 +77,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
-
 - [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
+
+- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
 ### zotero
 
