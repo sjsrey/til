@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-18 TILs at last count.
+19 TILs at last count.
 
 ## Categories
 
@@ -41,13 +41,15 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### emacs
 
+- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+
 - [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
-- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
 - [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
-- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 ### git
 
