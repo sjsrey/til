@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-19 TILs at last count.
+20 TILs at last count.
 
 ## Categories
 
@@ -35,27 +35,27 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### docker
 
-- [Connection refused](docker/connection_refused.md)
-
 - [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
 
+- [Connection refused](docker/connection_refused.md)
+
 ### emacs
+
+- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
 - [Forward sync from Emacs to pdf](emacs/forward-sync.md)
 
 - [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
-- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
-
-- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
-
 - [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
+
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
 ### git
 
-- [Large File Storage in Git](git/large-file-storage.md)
-
 - [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
+
+- [Large File Storage in Git](git/large-file-storage.md)
 
 ### kitty
 
@@ -63,9 +63,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### obsidian
 
-- [Updating community plug-ins](obsidian/updating_community_plugins.md)
-
 - [Project notes in obsidian](obsidian/project_notes.md)
+
+- [Updating community plug-ins](obsidian/updating_community_plugins.md)
 
 ### python
 
@@ -79,9 +79,11 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
-
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
+
+- [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
+
+- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
 ### zotero
 
