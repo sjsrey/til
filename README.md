@@ -6,9 +6,11 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-21 TILs at last count.
+23 TILs at last count.
 
 ## Categories
+
+ - [barrier](#barrier)
 
  - [docker](#docker)
 
@@ -35,23 +37,29 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ---
 
 
-### docker
+### barrier
 
-- [Connection refused](docker/connection_refused.md)
+- [Getting barrier working between Linux and macOS Monterey](barrier/barrier-ssl.md)
+
+- [PNG](barrier/barrier.png)
+
+### docker
 
 - [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
 
+- [Connection refused](docker/connection_refused.md)
+
 ### emacs
+
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
+
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
+
+- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
 - [Forward sync from Emacs to pdf](emacs/forward-sync.md)
 
 - [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
-
-- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
-
-- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
-
-- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 ### git
 
@@ -71,9 +79,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### python
 
-- [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
-
 - [Fixing clipped matplotlib saved images](python/bbox_inches.md)
+
+- [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
 
 ### ranger
 
@@ -87,9 +95,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
-- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
-
 - [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
+
+- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
 ### zotero
 

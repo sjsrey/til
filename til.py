@@ -47,7 +47,7 @@ for cat in cats:
     tils = categories[cat]
     for til in tils:
         pth = f'{cat}/{til}'
-        with open(pth, 'r') as f:
+        with open(pth, 'r', encoding='utf-8', errors='ignore') as f:
             contents = f.readlines()
             title = contents[0]
             title = title.replace("# ", "")
