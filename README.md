@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-24 TILs at last count.
+26 TILs at last count.
 
 ## Categories
 
@@ -19,6 +19,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [git](#git)
 
  - [kitty](#kitty)
+
+ - [kobo](#kobo)
 
  - [obsidian](#obsidian)
 
@@ -39,9 +41,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### barrier
 
-- [Getting barrier working between Linux and macOS Monterey](barrier/barrier-ssl.md)
-
 - [PNG](barrier/barrier.png)
+
+- [Getting barrier working between Linux and macOS Monterey](barrier/barrier-ssl.md)
 
 ### docker
 
@@ -51,17 +53,17 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### emacs
 
-- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
-
 - [Forward sync from Emacs to pdf](emacs/forward-sync.md)
 
-- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
-
-- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
+- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
 - [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
+- [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
+
 - [Installing emacs manual on debian](emacs/docs-debian.md)
+
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 ### git
 
@@ -72,6 +74,12 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### kitty
 
 - [Configuring kitty](kitty/kitty-config.md)
+
+### kobo
+
+- [Extract Kobo Highlights to Readwise](kobo/kobo-readwise.md)
+
+- [PNG](kobo/october.png)
 
 ### obsidian
 
