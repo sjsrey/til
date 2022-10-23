@@ -8,7 +8,7 @@ extracting the highlights requires a separate application
 
 To get the sync working:
 
-- [grab readise token](https://readwise.io/access_token)
+- [grab your readwise token](https://readwise.io/access_token)
 - Connect your device to your computer
 - start `october` and add your readwise token
 - select `Sync your highlights with Readwise`

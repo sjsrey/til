@@ -27,7 +27,7 @@ for f in listOfFiles:
         continue
     if cat == 'til.py' or cat == 'README.html':
         continue
-    if ft == 'html':
+    if ft == 'html' or ft == 'png':
         continue
     print(cat, fs, ft)
     categories[cat].append(fs[-1])
@@ -47,6 +47,7 @@ for cat in cats:
     tils = categories[cat]
     for til in tils:
         pth = f'{cat}/{til}'
+        print(til)
         with open(pth, 'r', encoding='utf-8', errors='ignore') as f:
             contents = f.readlines()
             title = contents[0]

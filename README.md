@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-26 TILs at last count.
+24 TILs at last count.
 
 ## Categories
 
@@ -40,8 +40,6 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
 ### barrier
-
-- [PNG](barrier/barrier.png)
 
 - [Getting barrier working between Linux and macOS Monterey](barrier/barrier-ssl.md)
 
@@ -78,8 +76,6 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### kobo
 
 - [Extract Kobo Highlights to Readwise](kobo/kobo-readwise.md)
-
-- [PNG](kobo/october.png)
 
 ### obsidian
 
