@@ -47,7 +47,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### bash
 
-- [#!/bin/bash](bash/fileschanged.sh)
+- [Finding files that changed today](bash/fileschanged.md)
 
 ### docker
 
