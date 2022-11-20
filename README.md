@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-25 TILs at last count.
+26 TILs at last count.
 
 ## Categories
 
@@ -19,6 +19,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [emacs](#emacs)
 
  - [git](#git)
+
+ - [i3](#i3)
 
  - [kitty](#kitty)
 
@@ -74,6 +76,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Large File Storage in Git](git/large-file-storage.md)
 
 - [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
+
+### i3
+
+- [Enabling tap to click on i3](i3/trackpad.md)
 
 ### kitty
 
