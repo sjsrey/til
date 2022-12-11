@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-27 TILs at last count.
+28 TILs at last count.
 
 ## Categories
 
@@ -102,6 +102,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Fixing clipped matplotlib saved images](python/bbox_inches.md)
 
 - [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
+
+- [Using black and pre-commit](python/black_pre_commit.md)
 
 ### ranger
 
