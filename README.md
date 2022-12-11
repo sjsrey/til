@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-26 TILs at last count.
+27 TILs at last count.
 
 ## Categories
 
@@ -66,6 +66,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
 - [Installing emacs manual on debian](emacs/docs-debian.md)
+
+- [eglot for better programming experience in python](emacs/eglot.md)
 
 - [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
