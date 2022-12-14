@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-28 TILs at last count.
+29 TILs at last count.
 
 ## Categories
 
@@ -53,31 +53,33 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### docker
 
-- [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
-
 - [Connection refused](docker/connection_refused.md)
+
+- [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
 
 ### emacs
 
-- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
-
-- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
-
 - [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
+
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
 - [Installing emacs manual on debian](emacs/docs-debian.md)
 
 - [eglot for better programming experience in python](emacs/eglot.md)
 
+- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+
 - [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
-- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
+
+- [Removing duplicate agenda items](emacs/agenda-duplicates.md)
 
 ### git
 
-- [Large File Storage in Git](git/large-file-storage.md)
-
 - [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
+
+- [Large File Storage in Git](git/large-file-storage.md)
 
 ### i3
 
@@ -101,9 +103,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Fixing clipped matplotlib saved images](python/bbox_inches.md)
 
-- [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
-
 - [Using black and pre-commit](python/black_pre_commit.md)
+
+- [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
 
 ### ranger
 
@@ -115,9 +117,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
-
 - [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
+
+- [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
