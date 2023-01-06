@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-29 TILs at last count.
+30 TILs at last count.
 
 ## Categories
 
@@ -74,6 +74,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 - [Removing duplicate agenda items](emacs/agenda-duplicates.md)
+
+- [Setting up github co-pilot in emacs](emacs/copilot.md)
 
 ### git
 
