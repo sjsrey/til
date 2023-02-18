@@ -1,4 +1,3 @@
-
 # Setting linew idth to 78 characters
 
 I like to have my text run 78 characters with hard wraps done for me by the

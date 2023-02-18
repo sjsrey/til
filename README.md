@@ -127,7 +127,7 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
-- [](vim/linewidth.md)
+- [Setting linew idth to 78 characters](vim/linewidth.md)
 
 ### zotero
 
