@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-32 TILs at last count.
+33 TILs at last count.
 
 ## Categories
 
@@ -15,6 +15,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [bash](#bash)
 
  - [docker](#docker)
+
+ - [duc](#duc)
 
  - [emacs](#emacs)
 
@@ -56,6 +58,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 - [Connection refused](docker/connection_refused.md)
 
 - [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
+
+### duc
+
+- [Dude, where are my bytes?](duc/duc.md)
 
 ### emacs
 
