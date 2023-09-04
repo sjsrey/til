@@ -6,13 +6,15 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-33 TILs at last count.
+34 TILs at last count.
 
 ## Categories
 
  - [barrier](#barrier)
 
  - [bash](#bash)
+
+ - [chatgpt](#chatgpt)
 
  - [docker](#docker)
 
@@ -53,11 +55,15 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Finding files that changed today](bash/fileschanged.md)
 
+### chatgpt
+
+- [Enabling chatGPT at the cli](chatgpt/chatgpt.md)
+
 ### docker
 
-- [Connection refused](docker/connection_refused.md)
-
 - [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
+
+- [Connection refused](docker/connection_refused.md)
 
 ### duc
 
@@ -65,31 +71,31 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### emacs
 
-- [Removing duplicate agenda items](emacs/agenda-duplicates.md)
+- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
-- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 - [Rescheduling mulitple items in org-agenda](emacs/bulk-reschedule.md)
 
-- [Compiling Emacs 28.1](emacs/compiling-emacs.md)
+- [Removing duplicate agenda items](emacs/agenda-duplicates.md)
 
-- [Setting up github co-pilot in emacs](emacs/copilot.md)
+- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
 
 - [Installing emacs manual on debian](emacs/docs-debian.md)
 
 - [eglot for better programming experience in python](emacs/eglot.md)
 
-- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
-
 - [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
-- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
+- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+
+- [Setting up github co-pilot in emacs](emacs/copilot.md)
 
 ### git
 
-- [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
-
 - [Large File Storage in Git](git/large-file-storage.md)
+
+- [Cherry picking a commit from one branch to another branch](git/cherry-picking.md)
 
 ### i3
 
@@ -113,9 +119,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 - [Fixing clipped matplotlib saved images](python/bbox_inches.md)
 
-- [Using black and pre-commit](python/black_pre_commit.md)
-
 - [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
+
+- [Using black and pre-commit](python/black_pre_commit.md)
 
 ### ranger
 
@@ -127,9 +133,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
-
 - [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
+
+- [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
 
 - [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
