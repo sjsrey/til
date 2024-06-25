@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-37 TILs at last count.
+38 TILs at last count.
 
 ## Categories
 
@@ -29,6 +29,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [kitty](#kitty)
 
  - [kobo](#kobo)
+
+ - [macosx](#macosx)
 
  - [obsidian](#obsidian)
 
@@ -112,6 +114,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### kobo
 
 - [Extract Kobo Highlights to Readwise](kobo/kobo-readwise.md)
+
+### macosx
+
+- [Menubar hiding with BetterTouchTool](macosx/menubarbtt.md)
 
 ### obsidian
 
