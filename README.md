@@ -6,13 +6,15 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-38 TILs at last count.
+39 TILs at last count.
 
 ## Categories
 
  - [barrier](#barrier)
 
  - [bash](#bash)
+
+ - [bettertouchtool](#bettertouchtool)
 
  - [chatgpt](#chatgpt)
 
@@ -56,6 +58,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### bash
 
 - [Finding files that changed today](bash/fileschanged.md)
+
+### bettertouchtool
+
+- [Fixing bettertouchtool beeping/nonworking keyboard triggers](bettertouchtool/bttshortcutsfix.md)
 
 ### chatgpt
 
