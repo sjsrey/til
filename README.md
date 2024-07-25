@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-39 TILs at last count.
+40 TILs at last count.
 
 ## Categories
 
@@ -41,6 +41,8 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
  - [ranger](#ranger)
 
  - [syncthing](#syncthing)
+
+ - [tmux](#tmux)
 
  - [vim](#vim)
 
@@ -146,6 +148,10 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 ### syncthing
 
 - [Syncthing config under MacOS X](syncthing/config.md)
+
+### tmux
+
+- [Creating and switching to a new tmux-session](tmux/new-session.md)
 
 ### vim
 
