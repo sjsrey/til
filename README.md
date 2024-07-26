@@ -6,7 +6,7 @@ A place to capture the nuggets so that I don't repeat the same search again.
 Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 
-40 TILs at last count.
+41 TILs at last count.
 
 ## Categories
 
@@ -71,9 +71,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### docker
 
-- [Connection refused](docker/connection_refused.md)
-
 - [Speeding up Docker on Mac M1 When using mounts](docker/speeding_up_mounts_mac.md)
+
+- [Connection refused](docker/connection_refused.md)
 
 ### duc
 
@@ -81,29 +81,31 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### emacs
 
-- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
-
-- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
-
-- [Installing pdf-tools on OS X](emacs/pdf-tools-osx.md)
-
 - [Compiling Emacs 28.1](emacs/compiling-emacs.md)
 
-- [Rescheduling mulitple items in org-agenda](emacs/bulk-reschedule.md)
+- [Installing emacs manual on debian](emacs/docs-debian.md)
+
+- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
 
 - [Using numpydocs with emacs](emacs/numpydocs-emacs.md)
 
-- [eglot for better programming experience in python](emacs/eglot.md)
-
-- [Installing emacs manual on debian](emacs/docs-debian.md)
+- [Rescheduling mulitple items in org-agenda](emacs/bulk-reschedule.md)
 
 - [Removing duplicate agenda items](emacs/agenda-duplicates.md)
 
 - [Setting up github co-pilot in emacs](emacs/copilot.md)
 
-- [Getting pdf-tools to work under Emacs on an M1](emacs/pdf-tools-m1.md)
+- [Forward sync from Emacs to pdf](emacs/forward-sync.md)
+
+- [eglot for better programming experience in python](emacs/eglot.md)
+
+- [BibTex with a multiple file document](emacs/bibex-with-multiple-docs.md)
+
+- [Installing pdf-tools on OS X](emacs/pdf-tools-osx.md)
 
 ### git
+
+- [SSH + Git](git/ssh-branching.md)
 
 - [Large File Storage in Git](git/large-file-storage.md)
 
@@ -111,9 +113,9 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### i3
 
-- [Enabling tap to click on i3](i3/trackpad.md)
-
 - [Switching Users in i3 with gdm](i3/gdm.md)
+
+- [Enabling tap to click on i3](i3/trackpad.md)
 
 ### kitty
 
@@ -135,11 +137,11 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### python
 
+- [Fixing clipped matplotlib saved images](python/bbox_inches.md)
+
 - [Using black and pre-commit](python/black_pre_commit.md)
 
 - [Turning warnings off for a cell in Jupyter](python/warnings-jupyter.md)
-
-- [Fixing clipped matplotlib saved images](python/bbox_inches.md)
 
 ### ranger
 
@@ -155,13 +157,13 @@ Inspired by [jbranchaud](https://github.com/jbranchaud/til).
 
 ### vim
 
-- [Setting line width to 78 characters](vim/linewidth.md)
-
 - [Using Bookmarks in NERDTREE](vim/nerdtreebookmarks.md)
 
-- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
-
 - [Remapping CapsLock to be Control and Escape](vim/capsescape.md)
+
+- [Setting line width to 78 characters](vim/linewidth.md)
+
+- [Refresh NERDTree to the directory of file in buffer](vim/nerdtreebuffer.md)
 
 ### zotero
 
